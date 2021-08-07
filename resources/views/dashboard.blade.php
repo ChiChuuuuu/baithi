@@ -6,7 +6,7 @@
 
 		<div class="content">
 			<div class="container-fluid">
-				<h1>Chào mừng đến với trang web quản lý điểm hàng đầu thế giới được tài trợ bởi Ubisoft</h1>
+				<h1>Chào mừng đến với trang web quản lý khach hang</h1>
 			</div>
 		</div>
 		<footer class="footer">
